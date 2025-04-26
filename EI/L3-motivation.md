@@ -3,9 +3,9 @@ Motivation is a personal competence. There are 2 types of motivation: Intrinsic 
 - `Intrinsic`: motivated by interest, within the individual
 - `Extrinsic`: motivated by external things, e.g., a reward
 
-![Motivation iceberg](L3\motivation-iceberg.png)
+![Motivation iceberg](L3/motivation-iceberg.png)
 
-![Benefits of intrinsic motivation](L3\benefits-intrinsic-motivation.png)
+![Benefits of intrinsic motivation](L3/benefits-intrinsic-motivation.png)
 
 ## Achievement Drive
 > Striving to improve or meet a standard of excellence (Striving to improve and meet a standard of excellence)

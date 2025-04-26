@@ -10,7 +10,7 @@ Self-awareness is one of the personal competences, consisting 3 competencies: `e
 
 There are a lot of different emotions. We can further categorize them based on the extent of feeling, some are heavier than others (eg., annoyance is a lighter form of anger/rage, they are similar but with different extent)
 
-![Plutchik's Emotional map](L1\emotional-map.png)
+![Plutchik's Emotional map](L1/emotional-map.png)
 
 ### Basic message of emotions
 | Emotion | Message |
@@ -48,4 +48,4 @@ There are a lot of different emotions. We can further categorize them based on t
     - Can voice views that are unpopular and go out on a limb for what is right 
     - Are decisive, able to make sound decisions despite uncertainties and pressures 
 
-![4 ways to Improve self-esteem](L1\improve-self-esteem.png)
+![4 ways to Improve self-esteem](L1/improve-self-esteem.png)

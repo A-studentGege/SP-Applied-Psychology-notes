@@ -37,7 +37,7 @@ Conversations with dad (video): [Conversations With Dad](https://www.youtube.com
 Conflict management animation: [Conflict Management Funny animated 1](https://www.youtube.com/watch?v=eT7lt4ESSLo)
 
 ### Conflict management styles
-![5 conflict management styles](L6\conflict-management-styles.png)
+![5 conflict management styles](L6/conflict-management-styles.png)
 
 - **Avoiding**: This style involves minimizing or ignoring the conflict, potentially by delaying the issue or withdrawing from the situation. It's often used when the issue is trivial, resolving the conflict would cause more harm than good, or when there's a lack of time or resources to address the conflict. 
 - **Accommodating**: This style prioritizes the other party's needs over your own, often yielding to their demands. It's useful when maintaining a relationship is more important than your own needs, or when the other party has greater expertise or power. 

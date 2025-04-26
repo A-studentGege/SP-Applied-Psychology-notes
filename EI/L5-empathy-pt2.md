@@ -24,7 +24,7 @@ Club Méditerranée, commonly known as Club Med, is a French corporation of vaca
     - Challenge bias and intolerance 
 
 ### Political awareness model
-![Political awareness model](L5\political-behaviour.png)
+![Political awareness model](L5/political-behaviour.png)
 | Animal  | Behaviour style  |
 |---|---|
 | Sheep  | Innocent behaviour,openly shares information,loyal but need to be led, sticks to the rules  |

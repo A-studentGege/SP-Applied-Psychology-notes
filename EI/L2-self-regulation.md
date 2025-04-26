@@ -43,6 +43,6 @@ The failures typically were overly ambitious, too ready to get ahead at the expe
 
 Yes must be like this guy:
 
-![King of adaptability Isagi~](L2\adaptability-king.png)
+![King of adaptability Isagi~](L2/adaptability-king.png)
 
 Wanted to put mahoraga too but bro's dead, sad.
