@@ -13,7 +13,7 @@ Look at `Maslow's Hierarchy of needs`. Wikipedia [here](https://en.wikipedia.org
 
 > According to Maslow's original formulation, there are five sets of basic needs: physiological, safety, love, esteem and self-actualization. These needs are related to each other in a hierarchy of prepotency (or strength) beginning with the physiological needs that are the most prepotent of all. If the physiological needs are fulfilled, a new set of safety needs emerges.
 
-![Maslow's Hierarchy](l4/maslows-hierarchy.png)
+![Maslow's Hierarchy](L4/maslows-hierarchy.png)
 
 Recall that in topic 1, we don't really know how adaptable we are (set goals, it's okay even if we fail); in topic 2, PERMA having meaning and achievements will add to our well-being.
 
@@ -53,7 +53,7 @@ From neuroscience perspective:
 - `Obstacles`: What are the obstacles that you may encounter
 - `Plan`: What is your plan when you meet obstacles
 
-![WOOP Framework](l4/woop.png)
+![WOOP Framework](L4/woop.png)
 
 ### GROW Framework :seedling:
 - `Goal` - what is it that you wish for future
@@ -61,7 +61,7 @@ From neuroscience perspective:
 - `Options` - explore the options for moving forward. e.g., how would you tackle this if time/money wasn't a factor? What else you can do?
 - `Will` - agree specific actions and timeframe. What will you do now? When will you do it? How will you know when you've been successful?
 
-![GROW Framework](l4/grow.png)
+![GROW Framework](L4/grow.png)
 
 ### How to operationalise with WOOP & GROW? - `Situation support` :people_holding_hands:
 
@@ -79,7 +79,7 @@ Surround yourself with likeminded people -the most powerful environments that we
 - Students with a growth mindset work and learn more effectively, displaying a desire for challenge and resilience in the face of failure
 - Those with a fixed mindset believe that you are either smart or you are not. When they fail or make a mistake, they believe that they are just not smart and give up.
 
-![Growth mindset](l4/growth-mindset.png)
+![Growth mindset](L4/growth-mindset.png)
 
 ### Brain plasticity :brain:
 **Connectivity between neurons can change with experience.** With practice, neural networks grow new connections, strengthen existing ones, and build insulation that speeds transmission of impulses.
@@ -87,7 +87,7 @@ Surround yourself with likeminded people -the most powerful environments that we
 - Past - believed that neurogenesis, or the creation of new neurons, stopped shortly after birth.
 - Now - the brain possesses the remarkable capacity to reorganize pathways, create new connections, and, in some cases, even create new neurons—a concept called neuroplasticity, or brain plasticity.
 
-![Brain plasticity](l4/brain-plasticity.png)
+![Brain plasticity](L4/brain-plasticity.png)
 
 #### Benefits of brain plasticity
 allows your brain to adapt and change, which helps to promote:

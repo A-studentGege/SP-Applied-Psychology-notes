@@ -88,7 +88,7 @@ How to build
 3. Ask questions of the people you don’t know well to find out more about them, their family, interests, hobbies etc. Find someone at work /that you can be friends with.
 4. Get in touch with people you’ve not spoken to for a while, like a relative who lives in a different city or town
 
-![types of love](l3/types-of-love.png)
+![types of love](L3/types-of-love.png)
 
 ### 5 Love Languages :heart: Which is yours?
 1. Receiving gifts :gift:
@@ -97,7 +97,7 @@ How to build
 4. Acts of service (devotion) :ok_hand:
 5. Physical touch :people_hugging:
 
-![5 Love languages](l3/love-languages.png)
+![5 Love languages](L3/love-languages.png)
 
 ### Develop Meaning
 To have a sense of meaning, **we need to feel that what we do is valuable and worthwhile.** This involves belonging to and/or serving something that we believe is greater than ourselves (Seligman, 2012).
@@ -109,7 +109,7 @@ Having meaning in your life, or working towards a greater purpose, is different 
 - A political cause, or
 - A religious or spiritual belief.
 
-![Friedrich Nietzsche quote](l3/meaning-quote.png)
+![Friedrich Nietzsche quote](L3/meaning-quote.png)
 
 
 > People who have purpose in their lives have greater longevity and life satisfaction and fewer health problems (Kashdan& McKnight, 2009).
