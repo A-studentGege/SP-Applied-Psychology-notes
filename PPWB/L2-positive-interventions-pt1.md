@@ -1,6 +1,6 @@
 # Lecture 2 Positive Interventions (1)
 
-## What is health?
+## What is health? :muscle:
 > Health is a state of complete positive physical, mental, and social well‐being and not merely the absence of disease or infirmity.
 - A person doesn't have diabetes/high blood pressure/cholesterol problems, he/she is not necessarily healthy!
 - Like physical health, you can build up psychological immunity to fight off (mental) illness.
@@ -14,12 +14,12 @@ Now you can choose 1 from the 2 capes: (Pawelski, James, 2016)
 
 ![Red or green cape?](L2/red-green-capes.png)
 
-## The green cape - positive interventions!
+## The green cape - positive interventions! :heavy_plus_sign:
 - A **positive psychology intervention (PPI)** was defined in accordance with Sin and Lyubomirsky’s(2009) article as <ins>a psychological intervention (training, exercise, therapy) primarily aimed at raising positive feelings, positive  cognitions or positive behaviors </ins> opposed to interventions aiming to reduce symptoms, problems or disorders.
 - **Positive psychotherapy (PPT)** rests on the hypothesis that depression can be treated effectively not only by reducing its negative symptoms but also by <ins>directly and primarily building positive emotions, character strengths, and meaning.</ins>
 - It is possible that directly building these positive resources may successfully counteract negative symptoms and may also buffer against their future reoccurrence.
 
-### the emotional bank account 
+### The emotional bank account :bank:
 We keep an emotional bank account in our relationship with others. We do good things to deposit so that our relationship becomes better, and bad behaviours hurt us and we withdraw, less "money" is left within the account. When it reaches 0, for a single wrong thing you do it may break the relationship.
 
 ![Emotional bank account](L2/emotional-bank-account.png)
@@ -29,7 +29,7 @@ We keep an emotional bank account in our relationship with others. We do good th
 
 For this session, 4 interventions are introduced. (from Yale course - the science of well being, Laurie Santos)
 
-## 1 - Gratitude Journaling
+## 1 - Gratitude Journaling :bookmark_tabs:
 > Definition from Harvard Medical : “a thankful appreciation for what an individual receives, whether tangible or intangible. With gratitude, people acknowledge the goodness in their lives … As a result, gratitude also helps people connect to something larger than themselves as individuals–whether to other people, nature, or a higher power"
 
 Gratitude journaling is to record daily things that you feel grateful for, and revisit the entries and you regain the gratefulness.
@@ -45,7 +45,7 @@ Gratitude journaling is to record daily things that you feel grateful for, and r
 - Increased happiness
     - Toepfer, Cichy, and Peters (2011) conducted a study asking people to write and deliver a letter to someone for whom they were grateful. After the task, their happiness levels and life satisfaction were dramatically impacted—even weeks later.
 
-## 2 - Savouring
+## 2 - Savouring :kissing_closed_eyes:
 >  we attempt to fully feel, enjoy and extend our positive experiences
 
 Jose, Lim, Bryant (2012)-momentary savouring were positively related to momentary happy mood.
@@ -66,7 +66,7 @@ When pleasant daily events were frequent, higher levels of momentary savoring di
     - We can often experience positive emotions when we strive for a goal, even before we have achieved that goal. How? **By using imagination to increase happiness.**
     - For example, you might be looking forward to when you can travel again. If so, you could practice savoring by thinking about what you’ll do, who will be there, and the positive emotions you hope to feel. As a result, you’ll generate positive emotions from an event that hasn’t even happened yet
 
-## 3 - Mindfulness
+## 3 - Mindfulness :relieved:
 > Mindfulness is **the basic human ability to be fully present, aware of where we are and what we're doing,** and not overly reactive or overwhelmed by what's going on around us.
 
 ![Mindfulness...](L2/mindfulness.png)
@@ -94,5 +94,14 @@ As the name suggests, do acts of kindness randomly in your life. Eg., Give some 
 ![](L2/why-intervention.png)
 I forgot what's the correct caption for this... something like "intervention is not helping you to get out from the sad zone (left), it's to help you go towards the happy zone" 
 
-> To laugh often and much; to win the respect of the intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty; to find the beauty in others; to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know that one life has breathed easier because you lived here. This is to have succeeded.
-―Ralph Waldo Emerson
+> To laugh often and much; to win the respect of the intelligent people and the affection of children; to earn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty; to find the beauty in others; to leave the world a bit better whether by a healthy child, a garden patch, or a redeemed social condition; to know that one life has breathed easier because you lived here. This is to have succeeded. ―Ralph Waldo Emerson
+
+## References
+- Pawelski, James. (2016). Defining the ‘positive’ in positive psychology: Part II. A normative analysis. The Journal of Positive Psychology. 11. 1-9.
+- Seligman, M. E. P., Rashid, T., & Parks, A. C. (2006). Positive psychotherapy.American Psychologist, 61(8), 774–788.https://doi.org/10.1037/0003-066X.61.8.774
+- Emmons RA, McCullough ME. Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life.Journal of Personality and Social Psychology.2003;84:377–389.
+- Jose, Paul & Lim, Bee & Bryant, Fred. (2012). Does savoringincrease happiness? A daily diary study. The Journal of Positive Psychology. 7. 176-187.
+- https://www.psychologytoday.com/sg/blog/click-here-happiness/201807/what-is-savoring-and-why-is-it-the-key-happiness
+- https://medium.com/swlh/the-brains-default-mode-what-is-it-and-why-meditation-is-the-antidote-d0408ab989d6
+- Otakeet al. (2006).Happy people become happier through kindness: A counting kindnesses intervention.Journal of happiness studies, 7(3), 361-375.
+- https://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/

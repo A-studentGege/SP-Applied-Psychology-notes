@@ -55,7 +55,7 @@ Coping strategies are like the armour that protects different parts of our body 
 
 > In PPWB, it aims to cover both types of well-beings - how to increase positive emotions and also how to plan for a more meaningful and fulfilling life.
 
-## What makes us happy?
+## What makes us happy? :smile:
 Money? Getting married with your love? Have a firm religious belief?
 
 ![Image1: more well-off financially != happier](L1/image1.png)
@@ -73,7 +73,7 @@ What can you find based on the images below?
 ![Image4: religious attendance and happiness](L1/image4.png)
 
 
-## Why are we not really happy?
+## Why are we not really happy? :sneezing_face:
 ### 1. Reference points (comparing)
 Because we constantly compare ourselves with others. 
 
