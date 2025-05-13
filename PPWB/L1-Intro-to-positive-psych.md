@@ -104,7 +104,7 @@ Hedonic adaptation is the tendency of us mere humans to **quickly return to a re
 - We get used to things 
 - Invest in experiences instead of material things. (Laurie Santos)
 
-### 3. Impact bias (Gan Gilbert)
+### 3. Impact bias (Dan Gilbert)
 The idea that **we tend to overestimate the emotional impact of things (intensity and duration)** -works both ways
 - we are less happy than we think we will be when we meet a success
 - less sad than we think we will be when we meet a setback
@@ -132,7 +132,5 @@ In PPWB, you will learn about
 - Resilience
 - Energy management
 
-```
-To live is the rarest thing in the world. Most people just exist.
-- Oscar Wilde
-```
+
+> To live is the rarest thing in the world. Most people just exist. - Oscar Wilde
