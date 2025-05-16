@@ -22,6 +22,7 @@
 - A: `affect`, how did you feel
 - R: `reaction`, what did you do
 - K: `knowledge`, what did you walk away with
+
 ![SPARK model](L7/spark.png)
 
 > `Positive reappraisal`: <ins>Changing your mind to see things in a new way that may be more beneficial to us now or in the future.</ins> So even when the worst happens, positive reappraisal involves daring to think about a stressful situation in **a new way** and being open to how you might learn, grow, or benefit from it. This will help you to overcome bigger challenges in the future.
