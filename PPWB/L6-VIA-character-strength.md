@@ -1,4 +1,4 @@
-# VIA Character Strength :mechanical_arm:
+# Lecture 6 VIA Character Strength :mechanical_arm:
 
 - Youth Development practitioners aimed to encourage healthy development.
 - VIA institute was created to provide conceptual means of describing **positive youth development, something to work towards and grow**.
