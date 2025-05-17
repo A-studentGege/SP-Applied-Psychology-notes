@@ -77,6 +77,23 @@ Research has shown that exercise is an effective but often underused treatment f
 
 **Mind-body connection**:  your mental state affects the health of your body, and the reverse happens too
 
+## Neurotransmitter & Hormones (extra stuff for you)
+- Neurotransmitter is the messenger in your body
+- Hormones exists and transmits in blood
+
+| Chemical  | Effects  |
+|---|---|
+| Epinephrine, norepinephrine, cortisol  | Increase blood pressure <br/> Suppression of immune system <br/> Shutting down of non-essential bodily functions (digestion, libido, excretion)  |
+| cortisol  | <ins>Decrease in serotonin level</ins> (increased depressive symptoms, make you happier)  |
+| Somatotropin (growth hormone)  | Works against insulin (decreases absorption)  |
+| Glucagon  | Spikes blood glucose (increased manufacturing)  |
+
+> Stress response: **fight, flight, freeze** and **fawn**
+
+Put it simply, when you face harm/attacks/threats, your reaction is either "fight the opponent", "flight (run away)", "freeze up and dunno what to do" or "appease/reconcile to avoid harm" 
+
+Refer to [Fight-or-flight response](https://en.wikipedia.org/wiki/Fight-or-flight_response)
+
 ## References :book:
 - Firth J, Gangwisch J E, Borsini A, Wootton R E, Mayer E A. Food and mood: how do diet and nutrition affect mental wellbeing? BMJ 2020; 369 :m2382
 - https://courses.lumenlearning.com/waymaker-psychology/chapter/stages-of-sleep
