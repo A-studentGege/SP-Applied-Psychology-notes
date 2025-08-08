@@ -12,6 +12,8 @@
 
 Watch [What is Bio-Psycho-Social Model?](https://www.youtube.com/watch?v=R8ljOrYPrcw)
 
+![BPS Model](L2/bps.png)
+
 ## Psychology in everyday life
 1. Advertisement
     - Engages our senses and perceptions to be attracted to/reminded of products
